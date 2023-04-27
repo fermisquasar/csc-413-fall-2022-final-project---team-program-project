@@ -13,7 +13,7 @@ Instructions:
 2. Login as test1, add test2 on the message page and send message.
 3. Login as test2 and you should be able to see message automically.
 
-Brandon Peralta:
+B****** P******:
 - Added a backend NEW file to handle conversations (createconversation)
 - Frontend components for message body
 - Frontend handling for messages / conversations,
@@ -21,13 +21,13 @@ Brandon Peralta:
 - added the image, also change the Live update functionality, both the left side user list and right side messages will update when new data comes
 - designed the chat screen as a CSS static design at first and implemented the backend to the work with UI. 
 
-Iza Limcolioc:
+I****** L******:
 - Helped implement dao files for AuthDao, ConversationDao, MessageDao, UserDao
 - Added CSS styling for navigation bar and buttons (such as hovering effect and different fonts)
 - Added CSS styling for create account and login pages (such as gradient screen and transparent user input)
 - Added a refreshing feature where it reloads the session every 5 mins, pages do not stay "idle" for long
 
-Matthew Marcos
+M****** M******:
 - Added and handled logouthandler for the backend
 - Added and handled logout.js for the frontend
 
