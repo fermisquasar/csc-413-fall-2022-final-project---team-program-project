@@ -34,11 +34,4 @@ M****** M******:
 Elliott Bullard
 - Added different themes on the front end. They change the color layouts and stay consistent between pages.
 - Added secret phases on the back end. If the phrases are entered into message the message that displays is different then what was sent.
-- These messages include case 
-- "Cake" or "cake"
-- "I have a secret" 
-- "Hello World" or "hello world"
-- "Test" or "test"
-- "What is the meaning of life?"
-- "Who's the best?"
-- "Hello" or "hello"
+- These messages include: "Cake" or "cake", "I have a secret", "Hello World" or "hello world", "Test" or "test", "What is the meaning of life?", "Who's the best?", and "Hello" or "hello"
